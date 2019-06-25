@@ -1,0 +1,9 @@
+ #!/bin/bash
+
+set -ex
+
+export ENV=BUILD
+
+# Fetching csv files
+bin/fetch-raw-data.sh
+

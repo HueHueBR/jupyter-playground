@@ -1,0 +1,6 @@
+name: huehuebr/jupyter-playground
+dependencies:
+  - python=3.7*
+  - pandas
+  - matplotlib
+
